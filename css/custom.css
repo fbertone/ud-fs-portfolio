@@ -1,0 +1,38 @@
+h1.title {
+  font-family: 'Sanchez', serif;
+}
+
+h1.project-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #a71c1c;
+}
+
+h2.subtitle {
+  font-family: 'Sanchez', serif;
+}
+
+h3.title {
+  font-family: 'Montserrat', sans-serif;
+  color: #a71c1c;
+}
+
+hr.top {
+  background-color: white;
+  border-top: 2px solid green;
+  border-bottom: 2px solid red;
+  padding-top: 3px;
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  font-family: 'Zilla Slab', serif;
+  color: #1d9c35;
+}
+
+img.hero {
+  width: 100%;
+}
