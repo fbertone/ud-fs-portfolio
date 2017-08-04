@@ -1,22 +1,22 @@
-h1.title {
+.title {
   font-family: 'Sanchez', serif;
 }
 
-h1.project-title {
+.project-title {
   font-family: 'Montserrat', sans-serif;
   color: #a71c1c;
 }
 
-h2.subtitle {
+.subtitle {
   font-family: 'Sanchez', serif;
 }
 
-h3.title {
+.section-title {
   font-family: 'Montserrat', sans-serif;
   color: #a71c1c;
 }
 
-hr.top {
+.hr-top {
   background-color: white;
   border-top: 2px solid green;
   border-bottom: 2px solid red;
@@ -33,6 +33,6 @@ hr.top {
   color: #1d9c35;
 }
 
-img.hero {
+.hero {
   width: 100%;
 }
